@@ -1,0 +1,69 @@
+body {
+    background-color:black;
+    font-family: Helvetica;
+    font-weight: bold;
+    text-align: center;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+h1{
+    text-align: center;
+    font-size: 22px;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    isolation: isolate;
+}
+.img:hover {
+    background-color: rgb(231, 101, 36);
+}
+.background1{
+
+}
+
+.berry {
+    display: flex;
+    flex-shrink: 3;
+}
+.spiced {
+    display: flex;
+
+}
+.seasonal {
+    display: flex;
+
+}
+.myrtle {
+    display: flex;
+
+}
+.bedford {
+    display: flex;
+
+}
+.background2{
+    display: flex;
+
+}
+.downtown {
+    display: flex;
+
+}
+.bayside {
+    display: flex;
+
+}
+.oakdale {
+    display: flex;
+
+}
+
+h2
+p.
